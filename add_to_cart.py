@@ -5,6 +5,7 @@ from time import sleep
 # Make sure you have selenium driver and firefox browser installed and added to path
 # Works with amazon/flipkart india
 # Enter product URL, Account ID, Password to below variables
+# This script will only add the product to your cart and take you to the payment page
 
 product_url = "URL"
 my_id = "Email/MobileNo."
